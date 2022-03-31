@@ -1,0 +1,33 @@
+.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 70px;
+    background-color: #498EC5;
+  }
+  
+  .hello {
+    text-align: center;
+    color: #203e57;
+  }
+  .student{
+      height: 100%;
+      min-height: 100vh;
+      background-color: #B6D1DE;
+  }
+  
+  .dashboardbutton {
+    background-color: #498EC5;
+    opacity: 0.8;
+    /* background-color: rgba(66, 186, 150, 0.7); */
+    color: rgb(255, 254, 254);
+    font-weight: bold;
+    font-size: larger;
+    width: 500px;
+    padding: 14px 50px;
+    margin: 20px 30px;
+    border-radius: 20px;
+    border: none;
+    /* cursor: pointer; */
+  }
